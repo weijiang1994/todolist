@@ -25,6 +25,7 @@ export default {
   border: 1px solid transparent;
   line-height: 1.5;
   border-radius: 0.25rem;
+  cursor: pointer;
 }
 
 .remove-btn:hover {
@@ -36,5 +37,8 @@ export default {
     padding: 8px 0px;
     line-height: 25px;
     font-size: 18px;
+}
+.content:hover{
+  background: rgb(236, 236, 236);
 }
 </style>
