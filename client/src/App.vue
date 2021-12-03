@@ -20,7 +20,7 @@ export default {
     box-sizing: border-box;
   }
   #app{
-    max-width: 400px;
+    max-width: 600px;
     margin: 0 auto;
     line-height: 1.4;
     font-family: 'Microsoft YaHei', Arial, Helvetica, sans-serif;
